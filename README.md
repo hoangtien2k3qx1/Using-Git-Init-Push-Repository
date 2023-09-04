@@ -18,7 +18,7 @@ git remote add origin https://github.com/username/repository-name.git
 git add .
 git commit -m "Initial commit"
 git branch -M main  # Tên nhánh chính (main) có thể thay đổi tuỳ theo cài đặt mới của GitHub.
-git push -u origin main
+git push -u origin master
 Nhập thông tin xác thực:
 Khi bạn thực hiện lệnh git push, GitHub sẽ yêu cầu bạn cung cấp thông tin xác thực. Bạn cần nhập tên người dùng và mật khẩu của tài khoản GitHub hoặc sử dụng phương pháp xác thực qua SSH.
 ```
